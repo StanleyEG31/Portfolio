@@ -6,11 +6,11 @@ A sleek, pixel‑art–inspired personal portfolio built with React and Vite, sh
 
 ## 🚀 Live Demo
 
-👉 [https://deineee.github.io/cv-resume/](https://deineee.github.io/cv-resume/)
+👉 [https://stanleyeg31.github.io/Portfolio](https://stanleyeg31.github.io/Portfolio)
 
 ## 📖 About
 
-I’m **Cris Deine L. Pomperada**, a fresh Computer Science graduate from NDMU, passionate about web development. This repo hosts my personal portfolio site, where you can:
+I’m **Stanley Ernst D. Gonatice**, a fresh Computer Science graduate from NDMU, passionate about web development. This repo hosts my personal portfolio site, where you can:
 
 - Learn about my background, skills, and experience
 - Browse through my featured projects
